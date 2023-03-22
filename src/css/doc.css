@@ -1,0 +1,28 @@
+
+.e13_2 { 
+	overflow:hidden;
+	background-color:rgba(255, 255, 255, 1);
+	width:501px;
+	height:1117px;
+	border: radius 15px;
+	position:absolute;
+}
+.e13_3 { 
+	width:358px;
+	height:75px;
+	position:absolute;
+	left:37px;
+	top:102px;
+}
+.e13_4 { 
+	color:rgba(39.00000147521496, 38.0000015348196, 44.000001177191734, 1);
+	width:358px;
+	height:75px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	font-family:Poppins;
+	text-align:left;
+	font-size: 48px;
+	letter-spacing:0;
+}

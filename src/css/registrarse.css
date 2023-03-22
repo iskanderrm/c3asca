@@ -1,0 +1,171 @@
+*{
+	margin: 0;
+}
+input{
+	background-color: transparent;
+	width: 614px;
+	height: 45px;
+	font-size: 25px;
+	font-family:Poppins;
+	border: none;
+	border-bottom: 2px solid white;
+	color: white;
+	outline: none;
+}
+.e9_18 { 
+	overflow:hidden;
+	background-color:rgba(39.00000147521496, 38.0000015348196, 44.000001177191734, 1);
+	width:1728px;
+	height:1117px;
+	position:absolute;
+}
+.e9_19 { 
+	transform: rotate(129.99999912293276deg);
+	background-color:rgba(64.00000378489494, 68.00000354647636, 237.0000010728836, 0.5);
+	width:336.4713134765625px;
+	height:336.4713134765625px;
+	position:absolute;
+	left:281.0316162109375px;
+	top:50.27960205078125px;
+}
+.e9_20 { 
+	transform: rotate(129.99999912293276deg);
+	background-color:rgba(64.00000378489494, 68.00000354647636, 237.0000010728836, 0.5);
+	width:336.4713134765625px;
+	height:336.4713134765625px;
+	position:absolute;
+	left:386.1683349609375px;
+	top:144.34677124023438px;
+}
+.e9_21 { 
+	transform: rotate(129.99999912293276deg);
+	background-color:rgba(64.00000378489494, 68.00000354647636, 237.0000010728836, 0.5);
+	width:336.4713134765625px;
+	height:336.4713134765625px;
+	position:absolute;
+	left:495.2686767578125px;
+	top:237.1722412109375px;
+}
+.e9_22 { 
+	border:2px solid rgba(255, 255, 255, 1);
+	width:614px;
+	height:0px;
+	position:absolute;
+	left:557px;
+	top:484px;
+}
+.e9_23 { 
+	border:2px solid rgba(255, 255, 255, 1);
+	width:614px;
+	height:0px;
+	position:absolute;
+	left:557px;
+	top:595px;
+}
+.e9_24 { 
+	color:rgba(153.00000607967377, 153.00000607967377, 153.00000607967377, 1);
+	width:138px;
+	height:34px;
+	position:absolute;
+	left:557px;
+	top:438px;
+	font-family:Poppins;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e9_25 { 
+	color:rgba(153.00000607967377, 153.00000607967377, 153.00000607967377, 1);
+	width:206px;
+	height:34px;
+	position:absolute;
+	left:557px;
+	top:551px;
+	font-family:Poppins;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e9_26 { 
+	border:2px solid rgba(255, 255, 255, 1);
+	width:614px;
+	height:0px;
+	position:absolute;
+	left:557px;
+	top:700px;
+}
+.e9_27 { 
+	color:rgba(153.00000607967377, 153.00000607967377, 153.00000607967377, 1);
+	width:320px;
+	height:33px;
+	position:absolute;
+	left:557px;
+	top:656px;
+	font-family:Poppins;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e9_28 { 
+	background-color:rgba(64.00000378489494, 68.00000354647636, 237.0000010728836, 1);
+	width:614px;
+	height:55px;
+	position:absolute;
+	left:557px;
+	top:747px;
+}
+.e9_29 { 
+	color:rgba(255, 255, 255, 1);
+	width:140px;
+	height:36px;
+	position:absolute;
+	left:239px;
+	top:10px;
+	font-family:Poppins;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e9_30 { 
+	width:767px;
+	height:286px;
+	position:absolute;
+	left:493px;
+	top:99px;
+}
+.e9_31 { 
+	color:rgba(255, 255, 255, 1);
+	width:442px;
+	height:204px;
+	position:absolute;
+	left:325px;
+	top:41px;
+	font-family:Poppins;
+	text-align:left;
+	font-size:65px;
+	letter-spacing:0;
+}
+.e9_32 { 
+	width:286px;
+	height:286px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	border-top-left-radius:500px;
+	border-top-right-radius:500px;
+	border-bottom-left-radius:500px;
+	border-bottom-right-radius:500px;
+	background-image:url(../images/markus_spiske_5zagbudujeu_unsplash_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e9_33 { 
+	width:708px;
+	height:704px;
+	position:absolute;
+	left:1120px;
+	top:551px;
+	background-image:url(../images/87baac69050e47e655df8e2e4663673b_icono_de_edificios_de_barras_azules_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}

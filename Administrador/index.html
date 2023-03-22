@@ -1,0 +1,47 @@
+<html lang="es-MX">
+  <head>
+    <meta charset="utf-8">
+
+    <title>Inmobiliaria Suchiapa</title>
+    <meta name="description" content="">
+    <meta name="Iskander" content="ISAC">
+    <link href="https://fonts.googleapis.com/css?family=Poppins&display=swap"
+      rel="stylesheet">
+    <link rel="stylesheet" href="./src/css/styles.css">
+
+  </head>
+
+  <body>
+    <div class=e1_6>
+      <span class="e1_12"><input type="user" placeholder="Usuario" id="user"></span>
+      <span class="e1_13"><input type="password"placeholder="Contraseña" id="pass"></span>
+      <span class="e1_14">Inmobiliaria Suchiapa</span>
+      <div class=e1_15><span class="e1_16"><button onclick="login()">Iniciar Sesión</button></span></div>
+      <div class="e1_17"></div>
+      <div class="e1_18"></div>
+      <div class="e1_19"></div>
+      <a href="/src/pages/rcontrasenia.html"><div class=e1_20><span class="e1_21">¿Olvidaste tu contraseña?</span></div></a>
+      <a href="/src/pages/registrarse.html"><div class=e1_22><div class="e1_23"></div><span class="e1_24">Registrate</span></div></a>
+    </div>
+    <script>
+    function login () {
+    let user = document.getElementById("user").value;
+    let password = document.getElementById("pass").value;
+
+
+    if (user.length != 0 && password.length > 0) {
+        if(user == 'donetrm' && password == 'Qwerty') {
+        window.location.assign ("/src/pages/home.html")
+        }
+
+        else {
+            alert('Usuario o contraseña incorrectas');
+        }
+    } else {
+
+    alert('Llene los campos');
+    }
+}
+    </script>
+  </body>
+</html>
