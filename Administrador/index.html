@@ -16,7 +16,7 @@
       <span class="e1_12"><input type="user" placeholder="Usuario" id="user"></span>
       <span class="e1_13"><input type="password"placeholder="Contraseña" id="pass"></span>
       <span class="e1_14">Inmobiliaria Suchiapa</span>
-      <div class=e1_15><span class="e1_16"><button onclick="login()">Iniciar Sesión</button></span></div>
+      <a onclick="login()"> <div class=e1_15><span class="e1_16">Iniciar Sesión</span></div></a>
       <div class="e1_17"></div>
       <div class="e1_18"></div>
       <div class="e1_19"></div>
@@ -31,7 +31,7 @@
 
     if (user.length != 0 && password.length > 0) {
         if(user == 'donetrm' && password == 'Qwerty') {
-        window.location.assign ("/src/pages/home.html")
+        window.location.assign ("/Administrador/src/pages/home.html")
         }
 
         else {
